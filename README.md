@@ -20,3 +20,4 @@
 
 ![Henry GitHub stats](https://github-readme-stats.vercel.app/api?username=henrydev1610&show_icons=true&theme=dracula)
 
+<img  src="(https://github-readme-stats.vercel.app/api/top-langs/?username=henrydev1610&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)"/>
