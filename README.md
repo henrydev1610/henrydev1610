@@ -19,6 +19,6 @@
 ![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 <img width="58%" src="https://github-readme-stats.vercel.app/api?username=henrydev1610&show_icons=true&theme=dracula"/>
-<img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henrydev1610&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats"/>
+<img width="35%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henrydev1610&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats"/>
 
 
