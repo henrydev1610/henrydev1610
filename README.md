@@ -1,5 +1,16 @@
 
 # Ola! Sou o Henry Benjamin 😀
+# # um entusiasta da tecnologia e estou sempre em busca de novos desafios. Desde jovem, fui fascinado por computadores e dispositivos eletrônicos e essa paixão me levou a estudar engenharia da computação. Atualmente, trabalho como desenvolvedor de software e estou sempre buscando aprender novas tecnologias e aprimorar minhas habilidades.
+
+No meu perfil do GitHub, você encontrará diversos projetos que desenvolvi ao longo da minha carreira, desde aplicativos mobile até sistemas web. Além disso, compartilho também algumas dicas e tutoriais sobre tecnologia que podem ajudar outros desenvolvedores em suas jornadas.
+
+Acredito que a tecnologia tem o poder de transformar o mundo e estou comprometido em utilizar meu conhecimento e habilidades para criar soluções inovadoras que possam tornar a vida das pessoas mais fácil e eficiente. Espero poder colaborar com outros desenvolvedores e aprender com a comunidade do GitHub.
+
+
+
+
+
+Regenerate response
 [![facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.youtube.com/watch?v=cRoBt6AZgjc&t=195s)
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]()
 [![twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)]()
