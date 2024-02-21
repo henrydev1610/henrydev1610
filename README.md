@@ -45,7 +45,7 @@ Olá! Sou  **Henry Benjamin**, um desenvolvedor front-end apaixonado por criar e
 
 ## 📪 Contato:
 
-- **LinkedIn:** [Henry Benjamin](https://www.linkedin.com/in/henry-benjamin-ant%C3%B4nio-rangel-64983220a/)
+- **LinkedIn:** [Henry Benjamin](https://www.linkedin.com/in/henry-benjamin-marques)
 - **E-mail:** henrybenjamin.dev@gmail.com
 
 
