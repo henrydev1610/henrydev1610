@@ -1,5 +1,5 @@
 
-#  Antônio Rangek - Desenvolvedor Full Stack 📟
+#  Antônio Rangel - Desenvolvedor Full Stack 📟
 
 Olá! Sou  **Antônio**, um desenvolvedor Full Stack apaixonado por criar experiências incríveis na web e em aplicativos móveis. Tenho expertise em várias tecnologias e estou sempre buscando aprender e evoluir na minha carreira.
 
