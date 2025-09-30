@@ -12,7 +12,7 @@ Olá! Sou  **Antônio**, um desenvolvedor Full Stack apaixonado por criar experi
 ![python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 <br/>
 
-<div display='inline'>
+<div display='center'>
 
 <img src='https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif'  width="300"/>
 
@@ -45,7 +45,7 @@ Olá! Sou  **Antônio**, um desenvolvedor Full Stack apaixonado por criar experi
 
 ## 📪 Contato:
 
-- **LinkedIn:** [Antônio Rangel](https://www.linkedin.com/in/henry-benjamin-marques)
+- **LinkedIn:** [Antônio Rangel](https://www.linkedin.com/in/antoniorangelbenja/)
 - **E-mail:** rangelantonio.dev@gmail.com
 
 
