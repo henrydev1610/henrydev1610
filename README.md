@@ -13,7 +13,7 @@ Olá! Sou  **Antônio**, um desenvolvedor Full Stack apaixonado por criar experi
 <br/>
 
 <div display='inline'>
-<img width="58%" src="https://github-readme-stats.vercel.app/api?username=henrydev1610&show_icons=true&theme=dracula"/>&nbsp;&nbsp;
+
 <img src='https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif'  width="300"/>
 
 
