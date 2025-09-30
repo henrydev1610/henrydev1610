@@ -45,8 +45,8 @@ Olá! Sou  **Antônio**, um desenvolvedor Full Stack apaixonado por criar experi
 
 ## 📪 Contato:
 
-- **LinkedIn:** [Henry Benjamin](https://www.linkedin.com/in/henry-benjamin-marques)
-- **E-mail:** henrybenjamin.dev@gmail.com
+- **LinkedIn:** [Antônio Rangel](https://www.linkedin.com/in/henry-benjamin-marques)
+- **E-mail:** rangelantonio.dev@gmail.com
 
 
 ## ♻ Como Contribuir:
